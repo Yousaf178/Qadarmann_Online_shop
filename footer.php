@@ -10,9 +10,9 @@
 								<h3 class="footer-title">About Us</h3>
 								
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>address</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>9846372444</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>abc@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>DOHA QATAR</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>0097455035166</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>youahmad224@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
